@@ -48,4 +48,8 @@
     .topicos {
         padding: 3em 30vw;
     }
+
+    .topicos__link:hover {
+        background-color: var(--laranja-claro);
+    }
 }
